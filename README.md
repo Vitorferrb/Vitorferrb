@@ -94,5 +94,4 @@ Me chamo Vitor Hugo Botelho Ferreira, tenho 20 anos. Concluí o ensino médio no
       height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorferrb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
