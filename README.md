@@ -81,14 +81,7 @@ Me chamo Vitor Hugo Botelho Ferreira, tenho 20 anos. Concluí o ensino médio no
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Vue.js"
-    title="Vue.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
+
 
 <br/>
 <br/>
