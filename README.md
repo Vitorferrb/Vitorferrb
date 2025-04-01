@@ -4,22 +4,6 @@
 
 Me chamo Vitor Hugo Botelho Ferreira, tenho 20 anos. Concluí o ensino médio no colégio estadual Olavo Bilac, logo iniciei um curso de desenvolvimento back-end na escola `DNC`. Atualmente, estou cursando Ciência da Computação na `UNISOSIESC`.
 
-<p align="left">
-    <a href="https://github.com/Vitorferrb?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Vitorferrb?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Vitorferrb?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Vitorferrb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
